@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "OliverSyx",
+			"oem": "Xiaomi",
+			"device": "sunny",
+			"filename": "risingOS-v1.6-Hayabusa-FINAL-202510240253-mojito-GAPPS-OFFICIAL.zip",
+			"download": "",
+			"timestamp": 1761274252,
+			"md5": "b11cdd80d2b14f1823f086bea09cb670",
+			"sha256": "f29360389b0b97df0803bc1bee924cde832c3613223a2e43ee71dab08f99adce",
+			"size": 1802852805,
+			"version": "v1.6-Hayabusa",
+			"buildtype": "montly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "14.0.9.0",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
